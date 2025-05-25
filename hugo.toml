@@ -1,0 +1,56 @@
+## Yassin's hugo web page
+## -- 
+## configuration file
+
+baseURL = 'https://yassinachengli.org'
+languageCode = 'es'
+title = "Yassin Achengli"
+theme = 'book'
+
+enableGitInfo = false
+disablePathToLower = true
+
+# book theme configuration
+[params]
+  BookTheme = 'light'
+  BookToC = true
+  BookLogo = 'logo.jpg'
+  BookSection = '*'
+  BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  BookCommitPath = 'commit'
+  BookSearch = true
+  BookComments = true
+  BookPortableLinks = true
+  BookServiceWorker = true
+
+  bookHidden = false
+  bookHref = ''
+  type = 'docs'
+  bookSearchExclude = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[languages]
+[languages.es]
+  languageName = 'Spanish'
+  contentDir = 'content.es'
+  weight = 1
+
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 2
+
+[menu]
+  [[menu.after]]
+    name = 'Github'
+    url = 'https://github.com/achengli'
+    weight= 10
+
+[[menu.after]]
+  name = 'Yassin Achengli'
+  url = 'http://yassinachengli.org'
+  weight = 20
+
+
