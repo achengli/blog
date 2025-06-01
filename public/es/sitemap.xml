@@ -2,40 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/es/categories/</loc>
+    <loc>https://yassinachengli.org/es/emacs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://yassinachengli.org/emacs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="https://yassinachengli.org/es/emacs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/</loc>
+    <loc>https://yassinachengli.org/es/philosophy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://yassinachengli.org/philosophy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="https://yassinachengli.org/es/philosophy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/</loc>
+    <loc>https://yassinachengli.org/es/octave/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://yassinachengli.org/octave/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="https://yassinachengli.org/es/octave/"
+                />
+  </url><url>
+    <loc>https://yassinachengli.org/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yassinachengli.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://yassinachengli.org/es/"
+                />
+  </url><url>
+    <loc>https://yassinachengli.org/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yassinachengli.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://yassinachengli.org/es/categories/"
+                />
+  </url><url>
+    <loc>https://yassinachengli.org/es/maths/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yassinachengli.org/maths/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://yassinachengli.org/es/maths/"
+                />
+  </url><url>
+    <loc>https://yassinachengli.org/es/philosophy/mi-primera-publicacion/</loc>
+  </url><url>
+    <loc>https://yassinachengli.org/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yassinachengli.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://yassinachengli.org/es/tags/"
                 />
   </url>
 </urlset>
