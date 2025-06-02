@@ -2,17 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yassin Achengli</title>
-    <link>https://yassinachengli.org/es/</link>
+    <link>http://localhost:1313/es/</link>
     <description>Recent content on Yassin Achengli</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="https://yassinachengli.org/es/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mi primera publicación</title>
-      <link>https://yassinachengli.org/es/philosophy/mi-primera-publicacion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yassinachengli.org/es/philosophy/mi-primera-publicacion/</guid>
-      <description>&lt;h2 id=&#34;primera-publicación&#34;&gt;&#xA;  Primera publicación&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#primera-publicaci%c3%b3n&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Hola, Esta es mi primera publicación usando Hugo. Es genial para poder publicar temas&#xA;relacionados con la ciencia o la filosofía por ejemplo.&lt;/p&gt;&#xA;&lt;p&gt;Todavia no se como colocar ciertos simbolos aqui pero voy a probar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;otro-bloque-estaria-bien-colocarlo-por-aqui&#34;&gt;&#xA;  Otro bloque estaria bien colocarlo por aqui&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#otro-bloque-estaria-bien-colocarlo-por-aqui&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;No se si estara funcionando pero quiero probar otra seccion. En esta ocasion quiero colocar&#xA;algo de codigo&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Hello&lt;/span&gt;(){&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, World!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;Hello&lt;/span&gt;()&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;empezando-con-algo-de-latex&#34;&gt;&#xA;  Empezando con algo de latex&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#empezando-con-algo-de-latex&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;En esta primera sección quiero probar cómo funciona la inserción de LaTeX sobre una&#xA;web estática hecha con &lt;strong&gt;Hugo&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

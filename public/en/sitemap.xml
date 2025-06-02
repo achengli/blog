@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yassinachengli.org/emacs/</loc>
+    <loc>http://localhost:1313/emacs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/emacs/"
+                href="http://localhost:1313/es/emacs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/emacs/"
+                href="http://localhost:1313/emacs/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/octave/</loc>
+    <loc>http://localhost:1313/octave/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/octave/"
+                href="http://localhost:1313/es/octave/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/octave/"
+                href="http://localhost:1313/octave/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/philosophy/</loc>
+    <loc>http://localhost:1313/philosophy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/philosophy/"
+                href="http://localhost:1313/es/philosophy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/philosophy/"
+                href="http://localhost:1313/philosophy/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/maths/</loc>
+    <loc>http://localhost:1313/maths/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/maths/"
+                href="http://localhost:1313/es/maths/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/maths/"
+                href="http://localhost:1313/maths/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>
