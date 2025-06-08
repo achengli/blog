@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on Yassin Achengli</title>
-    <link>https://yassinachengli.org/philosophy/</link>
+    <link>http://localhost:1313/philosophy/</link>
     <description>Recent content in Philosophy on Yassin Achengli</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://yassinachengli.org/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Numbers and Reality</title>
-      <link>https://yassinachengli.org/philosophy/the-numbers-and-reality/</link>
+      <link>http://localhost:1313/philosophy/the-numbers-and-reality/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://yassinachengli.org/philosophy/the-numbers-and-reality/</guid>
+      <guid>http://localhost:1313/philosophy/the-numbers-and-reality/</guid>
       <description>&lt;h1 id=&#34;numbers-and-reality&#34;&gt;&#xA;  Numbers and Reality&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#numbers-and-reality&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;numbers-exist&#34;&gt;&#xA;  Numbers Exist&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#numbers-exist&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This view of numbers came to me after analyzing it with a friend from the book club.&#xA;&lt;em&gt;Numbers are as real as we want to define them as real&lt;/em&gt; was the first thought that came&#xA;to mind, but then I reasoned that perhaps not all numbers are possible. In our reality,&#xA;only 0 and 1 truly exist as understandable concepts; that is, 0 would represent absence,&#xA;and 1 existence.&lt;/p&gt;</description>
     </item>
   </channel>

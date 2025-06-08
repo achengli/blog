@@ -2,99 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yassinachengli.org/es/emacs/</loc>
+    <loc>http://localhost:1313/es/emacs/</loc>
     <lastmod>2025-06-01T13:50:01+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/emacs/"
+                href="http://localhost:1313/emacs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/emacs/"
+                href="http://localhost:1313/es/emacs/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/es/philosophy/</loc>
+    <loc>http://localhost:1313/es/philosophy/</loc>
     <lastmod>2025-06-01T13:44:07+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/philosophy/"
+                href="http://localhost:1313/philosophy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/philosophy/"
+                href="http://localhost:1313/es/philosophy/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/es/octave/</loc>
+    <loc>http://localhost:1313/es/octave/</loc>
     <lastmod>2025-06-01T13:50:35+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/octave/"
+                href="http://localhost:1313/octave/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/octave/"
+                href="http://localhost:1313/es/octave/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/es/philosophy/los-numeros-y-la-realidad/</loc>
+    <loc>http://localhost:1313/es/philosophy/los-numeros-y-la-realidad/</loc>
     <lastmod>2025-06-04T00:56:18+02:00</lastmod>
   </url><url>
-    <loc>https://yassinachengli.org/es/</loc>
+    <loc>http://localhost:1313/es/</loc>
     <lastmod>2025-06-02T02:53:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/"
+                href="http://localhost:1313/es/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/es/categories/</loc>
+    <loc>http://localhost:1313/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/es/maths/</loc>
+    <loc>http://localhost:1313/es/maths/</loc>
     <lastmod>2025-06-01T16:53:06+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/maths/"
+                href="http://localhost:1313/maths/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/maths/"
+                href="http://localhost:1313/es/maths/"
                 />
   </url><url>
-    <loc>https://yassinachengli.org/es/maths/braket/</loc>
-    <lastmod>2025-06-07T22:55:00+02:00</lastmod>
+    <loc>http://localhost:1313/es/maths/braket/</loc>
+    <lastmod>2025-06-08T16:51:56+02:00</lastmod>
   </url><url>
-    <loc>https://yassinachengli.org/es/tags/</loc>
+    <loc>http://localhost:1313/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://yassinachengli.org/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://yassinachengli.org/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
   </url>
 </urlset>
