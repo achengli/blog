@@ -2,10 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematics on Yassin Achengli</title>
-    <link>http://localhost:1313/maths/</link>
+    <link>https://yassinachengli.org/maths/</link>
     <description>Recent content in Mathematics on Yassin Achengli</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/maths/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yassinachengli.org/maths/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dirac Notation and Its Application in Quantum Mechanics</title>
+      <link>https://yassinachengli.org/maths/braket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yassinachengli.org/maths/braket/</guid>
+      <description>&lt;h1 id=&#34;dirac-notation-and-its-application-in-quantum-mechanics&#34;&gt;&#xA;  Dirac Notation and Its Application in Quantum Mechanics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dirac-notation-and-its-application-in-quantum-mechanics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;dirac-notation&#34;&gt;&#xA;  Dirac Notation&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dirac-notation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Dirac devised a simplified way to express N-dimensional Hilbert spaces.&lt;br&gt;&#xA;This notation is also known as &lt;strong&gt;bra-ket&lt;/strong&gt; notation, and I’ll explain a bit about how it’s applied to quantum mechanics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-bra-kets&#34;&gt;&#xA;  About Bra-Kets&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#about-bra-kets&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;A Hilbert space is a probability space applied to a dimensional space.&lt;/p&gt;&#xA;&lt;p&gt;Let’s define a Hilbert space as the position probability equation of a particle&lt;br&gt;&#xA;&lt;em&gt;&amp;ldquo;mathematically seen as a singularity or point&amp;rdquo;&lt;/em&gt; \( \Psi(\vec{x}) \)&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

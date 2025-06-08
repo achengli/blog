@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yassin Achengli</title>
-    <link>http://localhost:1313/</link>
+    <link>https://yassinachengli.org/</link>
     <description>Recent content on Yassin Achengli</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yassinachengli.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Numbers and Reality</title>
-      <link>http://localhost:1313/philosophy/the-numbers-and-reality/</link>
+      <link>https://yassinachengli.org/philosophy/the-numbers-and-reality/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/philosophy/the-numbers-and-reality/</guid>
+      <guid>https://yassinachengli.org/philosophy/the-numbers-and-reality/</guid>
       <description>&lt;h1 id=&#34;numbers-and-reality&#34;&gt;&#xA;  Numbers and Reality&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#numbers-and-reality&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;numbers-exist&#34;&gt;&#xA;  Numbers Exist&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#numbers-exist&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This view of numbers came to me after analyzing it with a friend from the book club.&#xA;&lt;em&gt;Numbers are as real as we want to define them as real&lt;/em&gt; was the first thought that came&#xA;to mind, but then I reasoned that perhaps not all numbers are possible. In our reality,&#xA;only 0 and 1 truly exist as understandable concepts; that is, 0 would represent absence,&#xA;and 1 existence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dirac Notation and Its Application in Quantum Mechanics</title>
+      <link>https://yassinachengli.org/maths/braket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yassinachengli.org/maths/braket/</guid>
+      <description>&lt;h1 id=&#34;dirac-notation-and-its-application-in-quantum-mechanics&#34;&gt;&#xA;  Dirac Notation and Its Application in Quantum Mechanics&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dirac-notation-and-its-application-in-quantum-mechanics&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;dirac-notation&#34;&gt;&#xA;  Dirac Notation&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#dirac-notation&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Dirac devised a simplified way to express N-dimensional Hilbert spaces.&lt;br&gt;&#xA;This notation is also known as &lt;strong&gt;bra-ket&lt;/strong&gt; notation, and I’ll explain a bit about how it’s applied to quantum mechanics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-bra-kets&#34;&gt;&#xA;  About Bra-Kets&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#about-bra-kets&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;A Hilbert space is a probability space applied to a dimensional space.&lt;/p&gt;&#xA;&lt;p&gt;Let’s define a Hilbert space as the position probability equation of a particle&lt;br&gt;&#xA;&lt;em&gt;&amp;ldquo;mathematically seen as a singularity or point&amp;rdquo;&lt;/em&gt; \( \Psi(\vec{x}) \)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
