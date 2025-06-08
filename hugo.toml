@@ -7,7 +7,7 @@ languageCode = 'es'
 title = "Yassin Achengli"
 theme = 'book'
 
-enableGitInfo = false
+enableGitInfo = true
 disablePathToLower = true
 
 # book theme configuration
@@ -27,6 +27,7 @@ disablePathToLower = true
   bookHref = ''
   type = 'docs'
   bookSearchExclude = true
+  date_format = "03 Jan 2025"
 
 [markup.tableOfContents]
   startLevel = 1
@@ -56,3 +57,14 @@ disablePathToLower = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[frontmatter]
+  lastmod = [':it', ':fileModTime']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['$$', '$$']]
+          inline = [['\(', '\)']]
