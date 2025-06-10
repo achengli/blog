@@ -1,55 +1,35 @@
----
-title: El "Yo" y el ego
----
 
-# El "Yo" y el ego
+---
+title: The "Self" and the Ego
 ---
 
-## ¿Quien es el "yo"?
+# The "Self" and the Ego
 ---
 
-Historicamente, la pregunta de quien somos ha sido de gran relevancia y es algo que nos preguntamos para tener un punto de 
-partida para reconstruir nuestro entendimiento de la realidad.
-
-Uno podría pensar que el yo es todo aquello concerniente a lo que queda dentro de tu bien material inherente, queriendo decir
-con esto, nuestro cuerpo material y orgánico. Es una definición material y fundamentada en lo que creemos que somos pero sin ir
-más alla de lo biológico; de otra forma también se puede entender el "yo" cómo todo lo relacionado con nuestras acciones, lo 
-actuado y que forma parte de la conducta.
-
-Definamos el yo cómo lo que es parte de nosotros, no solo aquello que es fisico, sino también lo que es conducido a ello. La
-conducta de acción entendido cómo las relaciones que tenemos con el medio y con nosotros mismos. Ahora el *"yo"* es más que 
-solo lo que nos atañe a nuestro ser material, es también lo que dejamos escrito, lo que queremos y la disposición de nuestros
-recuerdos reflejados en ***acciones y pasiones***[^1]
-
-[^1]: Las acciones y las pasiones definidas por la ética de Spinoza.
-
-## El self ego
+## Who is the "self"?
 ---
-Yo diferencio entre dos tipos de ego, el *"****self-ego****"* y el ego. Digamos que el self-ego es el ego que uno asimila
-por si mismo, es una forma de personificarse cómo un ser mejor de lo que realmente puede ser pero con la interiorización de
-ello en su "yo" personal.
 
-El ego por otro lado es el que se refleja con el resto de individuos. Si nos paramos a pensar, el ego es el realmente dañino
-con nuestra salud social. Con el ego conseguimos que otros sientan rechazo y repulsión por una actitud elitísta y parece que no
-pero esta bastante incrustado en nuestro ser.
+Historically, the question of who we are has been of great importance and is something we ask ourselves in order to have a starting point to reconstruct our understanding of reality.
 
-Destruir nuestro ego consigue llevarnos a una nueva perspectiva de nuestro "yo" y el "ello" que nos permite calibrar lo que 
-somos y lo que tenemos. Creo que es el punto de partida para construir una filosofía y de alguna manera aceptar tu conclusión
-de existencia.
+One might think that the self is everything related to what lies within our inherent material being, meaning our physical and organic body. It’s a material definition grounded in what we believe ourselves to be, but without going beyond the biological. Alternatively, the "self" can also be understood as everything related to our actions—what we do and what forms part of our behavior.
 
-Ahora quiero hablar también del self-ego; este es más ajustado a nuestra propia personificación de lo que nosotros somos. 
-Nuestro yo internamente tiene un nuestro yo generado que, tal y cómo se puede intuir no es idéntico a nuestro yo. Es cómo la 
-[paradoja del mapa real](https://es.wikipedia.org/wiki/Paradoja_de_Bonini). Podemos entender que nuestra forma de comprender
-a las personas que conocemos consiste en crear un modelo de la persona con la que nos relacionamos, un modelo que no es
-exacto pero nos sirve dentro de un panorama idealizado.
+Let’s define the self as what is part of us—not only what is physical, but also what drives us toward that. The conduct of action can be understood as the relationships we have with our environment and with ourselves. Now the *"self"* is more than just our material being; it is also what we write, what we desire, and the disposition of our memories reflected in ***actions and passions***[^1]
 
-Al igual que ocurre con las personas que conocemos, debemos de conocernos creando ese modelo ya dicho, el mapa de nuestro 
-"yo" es la imagen de lo que somos pero sin serlo, y dentro de ello tenemos arraigados egos y creencias que son mentira.
+[^1]: Actions and passions as defined by Spinoza’s ethics.
 
-## Cómo lograr evitar el self-ego y el ego
+## The self-ego
 ---
-El punto más bajo de ego es no ser nada, sin embargo esto es imposible pero si nos podemos acercar; quiero decir que si 
-logramos rebajar nuestos ideales a nada, conseguiremos partir de una base mínima pero sólida, a partir de ahí podemos comenzar
-la reconstrucción de lo que somos, y esto se logra mediante la autoreflexión o la meditación activa. Comenzamos a hacernos 
-preguntas elementales que logran hacernos responder usando nuestro mapa mental del "yo" que somos y de esta manera nuestro yo 
-se reconstruye de una forma creible y real, sin mentiras logradas por nuestro miedo a la verdad.
+I differentiate between two types of ego: the *"self-ego"* and the ego. Let’s say that the self-ego is the ego that one internalizes by oneself—a way of personifying oneself as a better being than one may truly be, but with that internalized in one’s personal "self."
+
+The ego, on the other hand, is the one that reflects itself in relation to others. If we stop to think, the ego is what really harms our social well-being. Through the ego, we cause others to feel rejection and repulsion due to an elitist attitude. It might not seem like it, but this is deeply ingrained in our being.
+
+Destroying our ego allows us to gain a new perspective on our "self" and the "id" that helps us calibrate who we are and what we have. I believe this is the starting point for building a philosophy and, in a way, accepting our conclusion about existence.
+
+Now I also want to talk about the self-ego; this one is more closely tied to our own personification of who we are. Our inner self contains a self-generated image of ourselves that, as you might guess, is not identical to our actual self. It’s like the [real map paradox](https://en.wikipedia.org/wiki/Bonini%27s_paradox). We can understand that our way of comprehending the people we know consists of creating a model of the person we relate to—a model that is not exact, but serves within an idealized framework.
+
+Just as we do with others, we must get to know ourselves by creating that same model. The map of our "self" is the image of who we are—but without being us—and within it are rooted egos and beliefs that are false.
+
+## How to avoid the self-ego and the ego
+---
+The lowest point of ego is to be nothing; however, this is impossible—but we can get close. What I mean is that if we manage to reduce our ideals to nothing, we will be able to start from a minimal but solid base. From there, we can begin the reconstruction of what we are, and this is achieved through self-reflection or active meditation. We begin to ask ourselves fundamental questions that lead us to respond using our mental map of the "self" that we are, and in this way, our self is rebuilt in a believable and real way—without lies created by our fear of the truth.
+
