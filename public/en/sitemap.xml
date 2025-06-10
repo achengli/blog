@@ -106,5 +106,18 @@
                 hreflang="en"
                 href="https://yassinachengli.org/tags/"
                 />
+  </url><url>
+    <loc>https://yassinachengli.org/philosophy/el-ego/</loc>
+    <lastmod>2025-06-11T01:48:39+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://yassinachengli.org/es/philosophy/el-ego/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yassinachengli.org/philosophy/el-ego/"
+                />
   </url>
 </urlset>

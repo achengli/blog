@@ -69,6 +69,19 @@
                 href="https://yassinachengli.org/es/categories/"
                 />
   </url><url>
+    <loc>https://yassinachengli.org/es/philosophy/el-ego/</loc>
+    <lastmod>2025-06-11T01:55:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yassinachengli.org/philosophy/el-ego/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://yassinachengli.org/es/philosophy/el-ego/"
+                />
+  </url><url>
     <loc>https://yassinachengli.org/es/maths/</loc>
     <lastmod>2025-06-01T16:53:06+02:00</lastmod>
     <xhtml:link
@@ -106,8 +119,5 @@
                 hreflang="es"
                 href="https://yassinachengli.org/es/tags/"
                 />
-  </url><url>
-    <loc>https://yassinachengli.org/es/philosophy/el-ego/</loc>
-    <lastmod>2025-06-11T01:41:22+02:00</lastmod>
   </url>
 </urlset>
