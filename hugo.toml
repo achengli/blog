@@ -14,7 +14,7 @@ disablePathToLower = true
 [params]
   BookTheme = 'light'
   BookToC = true
-  BookLogo = 'logo.jpg'
+  BookLogo = 'images/logo.jpg'
   BookSection = '*'
   BookRepo = 'https://github.com/alex-shpak/hugo-book'
   BookCommitPath = 'commit'
@@ -37,11 +37,6 @@ disablePathToLower = true
   languageName = 'Spanish'
   contentDir = 'content.es'
   weight = 1
-
-[languages.en]
-  languageName = 'English'
-  contentDir = 'content.en'
-  weight = 2
 
 [menu]
   [[menu.after]]
