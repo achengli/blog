@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matemáticas on Yassin Achengli</title>
-    <link>https://yassinachengli.org/maths/</link>
+    <link>http://localhost:1313/maths/</link>
     <description>Recent content in Matemáticas on Yassin Achengli</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="https://yassinachengli.org/maths/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/maths/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notación de Dirac y su aplicación en la mecánica cuántica</title>
-      <link>https://yassinachengli.org/maths/braket/</link>
+      <link>http://localhost:1313/maths/braket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yassinachengli.org/maths/braket/</guid>
+      <guid>http://localhost:1313/maths/braket/</guid>
       <description>&lt;h1 id=&#34;notación-de-dirac-y-su-aplicación-en-la-mecánica-cuántica&#34;&gt;&#xA;  Notación de Dirac y su aplicación en la mecánica cuántica&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#notaci%c3%b3n-de-dirac-y-su-aplicaci%c3%b3n-en-la-mec%c3%a1nica-cu%c3%a1ntica&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;la-notación-de-dirac&#34;&gt;&#xA;  La notación de Dirac&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#la-notaci%c3%b3n-de-dirac&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Dirac ideó una forma simplificada de expresar los espacios de Hilbert N-dimensionales. A&#xA;esta notación también se le conoce cómo notación &lt;strong&gt;bra-ket&lt;/strong&gt; y voy a explicar un poco cómo se&#xA;aplica a la mecánica cuántica.&lt;/p&gt;&#xA;&lt;h2 id=&#34;sobre-los-bra-ket&#34;&gt;&#xA;  Sobre los bra-ket&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#sobre-los-bra-ket&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Un espacio de Hilbert es un espacio de probabilidad aplicado a un espacio dimensional.&lt;/p&gt;</description>
     </item>
   </channel>

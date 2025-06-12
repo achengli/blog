@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yassinachengli.org/emacs/</loc>
-    <lastmod>2025-06-01T13:50:01+02:00</lastmod>
+    <loc>http://localhost:1313/emacs/</loc>
+    <lastmod>2025-06-12T14:52:38+02:00</lastmod>
   </url><url>
-    <loc>https://yassinachengli.org/philosophy/</loc>
-    <lastmod>2025-06-01T13:44:07+02:00</lastmod>
+    <loc>http://localhost:1313/philosophy/</loc>
+    <lastmod>2025-06-12T14:52:38+02:00</lastmod>
   </url><url>
-    <loc>https://yassinachengli.org/octave/</loc>
-    <lastmod>2025-06-01T13:50:35+02:00</lastmod>
+    <loc>http://localhost:1313/octave/</loc>
+    <lastmod>2025-06-12T14:52:38+02:00</lastmod>
   </url><url>
-    <loc>https://yassinachengli.org/philosophy/los-numeros-y-la-realidad/</loc>
-    <lastmod>2025-06-04T00:56:18+02:00</lastmod>
+    <loc>http://localhost:1313/philosophy/los-numeros-y-la-realidad/</loc>
+    <lastmod>2025-06-12T14:52:38+02:00</lastmod>
   </url><url>
-    <loc>https://yassinachengli.org/</loc>
-    <lastmod>2025-06-08T17:34:18+02:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-12T14:59:01+02:00</lastmod>
   </url><url>
-    <loc>https://yassinachengli.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://yassinachengli.org/philosophy/el-ego/</loc>
-    <lastmod>2025-06-11T02:16:55+02:00</lastmod>
+    <loc>http://localhost:1313/philosophy/el-ego/</loc>
+    <lastmod>2025-06-12T14:52:38+02:00</lastmod>
   </url><url>
-    <loc>https://yassinachengli.org/maths/</loc>
-    <lastmod>2025-06-01T16:53:06+02:00</lastmod>
+    <loc>http://localhost:1313/maths/</loc>
+    <lastmod>2025-06-12T14:52:38+02:00</lastmod>
   </url><url>
-    <loc>https://yassinachengli.org/maths/braket/</loc>
-    <lastmod>2025-06-08T16:51:56+02:00</lastmod>
+    <loc>http://localhost:1313/maths/braket/</loc>
+    <lastmod>2025-06-12T14:52:38+02:00</lastmod>
   </url><url>
-    <loc>https://yassinachengli.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

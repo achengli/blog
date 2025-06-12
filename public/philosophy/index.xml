@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Filosofia on Yassin Achengli</title>
-    <link>https://yassinachengli.org/philosophy/</link>
+    <link>http://localhost:1313/philosophy/</link>
     <description>Recent content in Filosofia on Yassin Achengli</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="https://yassinachengli.org/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Los números y la realidad</title>
-      <link>https://yassinachengli.org/philosophy/los-numeros-y-la-realidad/</link>
+      <link>http://localhost:1313/philosophy/los-numeros-y-la-realidad/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://yassinachengli.org/philosophy/los-numeros-y-la-realidad/</guid>
+      <guid>http://localhost:1313/philosophy/los-numeros-y-la-realidad/</guid>
       <description>&lt;h1 id=&#34;los-números-y-la-realidad&#34;&gt;&#xA;  Los números y la realidad&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#los-n%c3%bameros-y-la-realidad&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;los-números-existen&#34;&gt;&#xA;  Los números existen&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#los-n%c3%bameros-existen&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Esta visión de los números la tuve después de analizarla con un amigo del club de&#xA;lectura. &lt;em&gt;Los números son tan reales como nosotros queramos definirlos como reales&lt;/em&gt;&#xA;es lo primero que se me vino a la mente, pero luego razoné que tal vez los números no&#xA;son todos posibles. En nuestra realidad solo existen el 0 y el 1 ciertamente como&#xA;conceptos entendibles; es decir, el 0 sería la ausencia y el 1 la existencia.&lt;/p&gt;</description>
     </item>
   </channel>

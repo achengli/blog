@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>El &#34;Yo&#34; y el ego on Yassin Achengli</title>
-    <link>https://yassinachengli.org/philosophy/el-ego/</link>
+    <link>http://localhost:1313/philosophy/el-ego/</link>
     <description>Recent content in El &#34;Yo&#34; y el ego on Yassin Achengli</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="https://yassinachengli.org/philosophy/el-ego/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/philosophy/el-ego/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
