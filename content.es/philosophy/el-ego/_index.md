@@ -37,7 +37,7 @@ Destruir nuestro ego consigue llevarnos a una nueva perspectiva de nuestro "*yo*
 somos y lo que tenemos. Creo que es el punto de partida para construir una filosofía y de alguna manera aceptar tu conclusión
 de existencia.
 
-![ego.jpg](ego.jpg)
+![Representacion del ello y el yo](ego.jpg)
 
 Ahora quiero hablar también del self-ego; este es más ajustado a nuestra propia personificación de lo que nosotros somos. 
 Nuestro yo internamente tiene un nuestro yo generado que, tal y cómo se puede intuir no es idéntico a nuestro yo. Es cómo la 
