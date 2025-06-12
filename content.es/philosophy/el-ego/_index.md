@@ -55,3 +55,21 @@ logramos rebajar nuestos ideales a nada, conseguiremos partir de una base mínim
 la reconstrucción de lo que somos, y esto se logra mediante la autoreflexión o la meditación activa. Comenzamos a hacernos 
 preguntas elementales que logran hacernos responder usando nuestro mapa mental del "yo" que somos y de esta manera nuestro yo 
 se reconstruye de una forma creible y real, sin mentiras logradas por nuestro miedo a la verdad.
+
+## El ego desde mi perspectiva
+---
+El ego es dañino, solo te cierra puertas y te hace encerrarte en una falsa creencia de superioridad. Para mi, matar el 
+ego implica matar la vergüenza, matar el miedo a que te puedan juzgar por ser tal y cómo eres. 
+
+Para matar el ego simplemente deja de justificar tus acciones con tal de tener siempre una aprobación, permite que 
+esa aprobación sea que a tí te parece bien y ten las riendas de tu personalidad. Si se rien de mi pues bueno, espero que
+esten pasando un buen rato, si se burlan de mi, pues allá ellos que tienen sus opiniones. Yo tengo mi camino y mi forma 
+de ser, ni peor ni mejor que la del resto, simplemente una trayectoria que yo mismo me marco, obviamente con inspiraciones,
+objetivos y sensaciones.
+
+Yo, obviamente no siempre fui así, lo tuve que trabajar y ha sido gracias a meditaciones pero que no han surtido un 
+efecto incremental, sino que en un momento dado, un instante, le di la vuelta a la tortilla y mi visión de la vida cambió.
+Simplemente vi que tener intuiciones personales de ser algo especial o romper la consonancia de mi perspectiva respecto
+a la visión objetiva solo conseguiría que ese circulo vicioso de insatisfacción tuviese libertad de proseguir en acción.
+
+Yo te animo a que mitigues tus egos haciendo retrospectiva de lo que eres y lo que quieres 😀
