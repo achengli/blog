@@ -14,7 +14,7 @@ disablePathToLower = true
 [params]
   BookTheme = 'light'
   BookToC = true
-  BookLogo = 'images/logo.jpg'
+  BookLogo = '/logo.jpg'
   BookSection = '*'
   BookRepo = 'https://github.com/alex-shpak/hugo-book'
   BookCommitPath = 'commit'
