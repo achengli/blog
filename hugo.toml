@@ -62,4 +62,4 @@ disablePathToLower = true
       [markup.goldmark.extensions.passthrough]
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['$$', '$$']]
-          inline = [['\(', '\)']]
+          inline = [['\\(', '\\)']]
