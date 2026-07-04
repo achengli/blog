@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://yassinachengli.co",
+    url: "https://yassinachengli.com",
     title: "Yassin Achengli",
     description: "AstroPaper based web blog, modified to be a blog for my personal notes.",
     author: "Yassin Achengli",
@@ -30,7 +30,7 @@ export default defineAstroPaperConfig({
   },
   socials: [
     { name: "github",   url: "https://github.com/achengli" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/yassin-achengli-a3934121b" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/yassin-achengli-benmouais-a3934121b" },
     { name: "mail",     url: "mailto:yassin_achengli@gmail.com" },
   ],
   shareLinks: [
