@@ -43,7 +43,8 @@ jobs:
       - name: Build site
         run: pnpm run build
         env:
-          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          # Dominio personalizado en la raíz; no usar /blog en yassinachengli.com
+          BASE_PATH: /
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
