@@ -1,37 +1,22 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "Sobre mí"
+description: "¡Hola! Soy Yassin, ingeniero de telecomunicaciones, friki de las matemáticas y filósofo."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+![La pecera de Yassin](@/assets/images/blowfish.jpg)
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+## Sobre mí
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+¡Hola! Soy Yassin, ingeniero de telecomunicaciones, friki de las matemáticas y filósofo, y muchas cosas más.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Soy muy curioso, sobre todo cuando se refiere a temas científicos, medio ambniente y en general, el conocimiento, por eso es que he decidido crear este blog, para publicar cosas que me parece que son interesantes, útiles y motivadoras para quien lea esto.
 
-## Features
+Cómo puedes observar, este blog se organiza en tópicos que pueden no ser los mismos en el futuro, quiero decir que es posible que vaya a crear nuevos tópicos acerca de nuevos intereses que necesitan su propio foco.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## Acerca del blog
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+Hice este blog usando el generador de sitios estáticos [Astro](https://astro.build/). Astro es muy útil para personas minimalistas como yo porque no es necesario dedicar mucho esfuerzo al estilo y la estructura web, profundizando en aspectos de CSS, HTML y JavaScript. Puedes publicar directamente tus archivos en formato markdown e incluso usar secciones con ***LaTeX***.
 
-and so much more.
+Si quieres echar un vistazo al código fuente de este sitio web, puedes visitar el repositorio que es abierto. Siéntete libre de copiar el código, editar lo que quieras y tomar inspiración si te resulta útil.
 
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+El sitio web se encuentra en [achengli/yassin_blog](https://github.com/achengli/yassin_blog).

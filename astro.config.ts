@@ -23,6 +23,7 @@ import rehypeKatex from "rehype-katex";
 
 export default defineConfig({
   site: config.site.url,
+  base: process.env.BASE_PATH || "/",
   integrations: [
     mdx(),
     sitemap({
@@ -51,6 +52,9 @@ export default defineConfig({
     }),
     shikiConfig: {
       themes: { light: "min-light", dark: "night-owl" },
+      langAlias: {
+        octave: "matlab",
+      },
       defaultColor: false,
       wrap: false,
       transformers: [

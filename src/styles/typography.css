@@ -85,6 +85,12 @@
       @apply border-s-accent/80 wrap-break-word opacity-80;
     }
 
+    .highlight-box {
+      @apply my-4 rounded-md border px-4 py-3;
+      background-color: var(--highlight-bg);
+      border-color: var(--highlight-border);
+    }
+
     details:not(.callout) {
       @apply text-foreground inline-block cursor-pointer select-none [&_p]:hidden [&_ul]:my-0!;
     }

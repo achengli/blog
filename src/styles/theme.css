@@ -20,6 +20,8 @@
   --muted: #e6e6e6;
   --muted-foreground: #6b7280;
   --border: var(--accent);
+  --highlight-bg: color-mix(in srgb, var(--accent) 12%, var(--background));
+  --highlight-border: color-mix(in srgb, var(--accent) 28%, transparent);
 }
 
 /* Dark theme values */
@@ -31,4 +33,6 @@
   --muted: #343f60;
   --muted-foreground: #afb9ca;
   --border: var(--accent);
+  --highlight-bg: color-mix(in srgb, var(--accent) 16%, var(--background));
+  --highlight-border: color-mix(in srgb, var(--accent) 35%, transparent);
 }
