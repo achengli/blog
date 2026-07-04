@@ -19,4 +19,4 @@ Hice este blog usando el generador de sitios estáticos [Astro](https://astro.bu
 
 Si quieres echar un vistazo al código fuente de este sitio web, puedes visitar el repositorio que es abierto. Siéntete libre de copiar el código, editar lo que quieras y tomar inspiración si te resulta útil.
 
-El sitio web se encuentra en [achengli/yassin_blog](https://github.com/achengli/yassin_blog).
+El sitio web se encuentra en [achengli/yassin_blog](https://github.com/achengli/blog).
